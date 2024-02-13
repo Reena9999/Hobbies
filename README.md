@@ -14,4 +14,6 @@ This repository show some basic NLP processes and how they can be used with Arti
 **NLP with AI**:    
 1. LSTM for text generation
 2. Pretrained Models
+3. Twitter Bot Profiling
+   
 
